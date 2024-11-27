@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Respawn 1
+  - Respawn 2
+  - Respawn 3
+  - Respawn 4
+  - Respawn 5
+  - Respawn 6
+  - Respawn 7
+  - Respawn 8
+  - Respawn 9
+  - Respawn 10
+  - Respawn 11
+  - Respawn 12
+  - Respawn 13
+  - Respawn 14
+  - Respawn 15
+  - Respawn 16
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
